@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.aa421065.css",
-    "main.js": "/portfolio/static/js/main.aa09f59a.js",
+    "main.js": "/portfolio/static/js/main.4439379b.js",
     "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/COVID Vaccination Chatbot.png": "/portfolio/static/media/COVID Vaccination Chatbot.1e5afcfa401121f1091e.png",
     "static/media/Developer Portfolio Website.png": "/portfolio/static/media/Developer Portfolio Website.f5e2e5042e520bfe7cfb.png",
     "static/media/Healthcare Appointment Assistant.png": "/portfolio/static/media/Healthcare Appointment Assistant.5120d6b1240a835ecd88.png",
     "static/media/Electric Outage Reporting Bot.png": "/portfolio/static/media/Electric Outage Reporting Bot.bcf64e995d2f20be39e9.png",
-    "static/media/logo.png": "/portfolio/static/media/logo.56221b8813511329cb53.png",
     "static/media/gnanamuthu_ccai.pdf": "/portfolio/static/media/gnanamuthu_ccai.bb8f939512b7ab5c9828.pdf",
     "static/media/home-main.svg": "/portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
@@ -17,12 +16,12 @@
     "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/portfolio/index.html",
     "main.aa421065.css.map": "/portfolio/static/css/main.aa421065.css.map",
-    "main.aa09f59a.js.map": "/portfolio/static/js/main.aa09f59a.js.map",
+    "main.4439379b.js.map": "/portfolio/static/js/main.4439379b.js.map",
     "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa421065.css",
-    "static/js/main.aa09f59a.js"
+    "static/js/main.4439379b.js"
   ]
 }
